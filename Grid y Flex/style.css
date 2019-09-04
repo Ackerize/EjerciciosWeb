@@ -12,7 +12,9 @@
 }
 
 .colores>.one{
-    background: grey;
+    background-image: url("professor_ryze.png");
+    background-size: cover;
+    
     grid-column: 1/2;
     grid-row: 1/3;
 }
@@ -29,7 +31,7 @@
 }
 
 .colores>.four{
-    background: green;
+    background: grey;
     grid-column: 1/3;
     grid-row: 3/4;
 }
